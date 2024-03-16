@@ -10,7 +10,7 @@
   <img align="center" alt="vuejs" src="https://img.shields.io/badge/VueJs-006c00?style=for-the-badge&logo=vue&logoColor=white" />
 </div><br/>
 
-<!--
+
 ## GitHub Stats ⚡
 <div>
   <a href="https://github.com/VictorSilvaJS">
@@ -21,7 +21,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorSilvaJS&layout=compact&langs_count=7&theme=radical"/> 
   </center>
 </div>
--->
+
 
 ## Reach me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-silva-cic/)
