@@ -4,7 +4,7 @@
 - 💻 Apaixonado por programação, aprendizado de máquina, IA, design e robótica
 - 🔎 Em busca de oportunidades de estágio na área de Computação.
 
-## Linguagens & Ferramentas 🛠️
+## Linguagens e Ferramentas 🛠️
 <div>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
