@@ -29,6 +29,8 @@
 ## Contatos 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-silva-cic/)
 [![Gmail](https://img.shields.io/badge/-vsjesus.cic%40uesc.br-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vsjesus.cic@uesc.br)]()
+[![DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge&logo=gitbook&logoColor=E94D5F)](https://www.dio.me/users/victorsilvadejesus)
+
 
 <!--[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabbiribas/) 
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)](https://www.duolingo.com/profile/gabbiribas)
